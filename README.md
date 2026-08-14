@@ -12,11 +12,11 @@
 
 
 ## 📌 About Me
-- 🌱 Learning MERN Stack Development
-- 🔨 Building full-stack projects
-- 📚 Improving JavaScript & React skills
-- 🚀 Exploring backend development and REST APIs
-- 🤝 Open to learning, collaboration, and new opportunities
+🌱 Learning MERN Stack Development
+🔨 Building full-stack projects
+📚 Improving JavaScript & React skills
+🚀 Exploring backend development and REST APIs
+🤝 Open to learning, collaboration, and new opportunities
 
 
 ## 🧠 My Focus Areas
