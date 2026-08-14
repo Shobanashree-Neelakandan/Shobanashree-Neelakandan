@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shobanashree%20Neelakandan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mern%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shobanashree%20Neelakandan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Shobanashree-Neelakandan">
@@ -8,7 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 
 
